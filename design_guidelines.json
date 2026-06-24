@@ -1,0 +1,133 @@
+{
+  "project_name": "EDUVINCI",
+  "domain": "Education Consultancy",
+  "theme": "Light",
+  "archetype": "Custom High-End Editorial (Blend of Swiss Brutalist & Luxury)",
+  "design_philosophy": {
+    "core_principles": [
+      "Premium editorial-minimalist European feel. Rivals Oxbridge admissions firms, premium law firms.",
+      "Restraint over decoration. NO loud sliders, NO clip-art, NO rainbow gradients.",
+      "High use of negative space. Elements should breathe heavily.",
+      "Strong typographic hierarchy with tight tracking on massive serif headings.",
+      "Thin rules/dividers (1px solid borders) to structure content without heavy containers."
+    ],
+    "emotion": "Professional, Warm, Concrete, Trustworthy, Prestigious"
+  },
+  "colors": {
+    "background": {
+      "main": "#F7F5F0",
+      "surface": "#FFFFFF",
+      "glass": "rgba(247, 245, 240, 0.85)"
+    },
+    "text": {
+      "primary": "#0F1B2D",
+      "muted": "#5A5A5A",
+      "inverse": "#F7F5F0"
+    },
+    "accent": {
+      "primary": "#C75B39",
+      "secondary": "#8A9A8E"
+    },
+    "border": {
+      "light": "rgba(15, 27, 45, 0.1)",
+      "medium": "rgba(15, 27, 45, 0.2)"
+    }
+  },
+  "typography": {
+    "fonts": {
+      "headings": "'Cormorant Garamond', serif",
+      "body": "'Inter', sans-serif"
+    },
+    "hierarchy": {
+      "h1": "text-5xl sm:text-6xl md:text-7xl font-light tracking-tighter text-[#0F1B2D] leading-[1.05]",
+      "h2": "text-4xl sm:text-5xl font-light tracking-tight text-[#0F1B2D] leading-[1.1]",
+      "h3": "text-2xl sm:text-3xl font-normal tracking-tight text-[#0F1B2D]",
+      "body": "text-base md:text-lg text-[#5A5A5A] leading-relaxed font-light",
+      "overline": "text-xs md:text-sm uppercase tracking-[0.2em] font-medium text-[#C75B39]"
+    }
+  },
+  "layout_and_spacing": {
+    "spacing_scale": "Use p-8, p-12, p-24, and p-32. Double the usual whitespace. Sections should be separated by py-24 or py-32.",
+    "grid_system": "Bento Protocol Mode A: The 'Tetris' Grid for service showcases, using col-span-full, col-span-4, col-span-8 to create asymmetry.",
+    "borders": "Use 'border-t border-[#0F1B2D]/10' to separate sections instead of alternate background colors. Maintain the #F7F5F0 background everywhere."
+  },
+  "components": {
+    "header": {
+      "style": "Sticky, glassmorphism using 'backdrop-blur-xl bg-[#F7F5F0]/85', with a 1px border-b border-[#0F1B2D]/10. Must contain EN/TR toggle.",
+      "links": "Inter, text-sm, tracking-wide, text-[#0F1B2D] hover:text-[#C75B39] transition-colors"
+    },
+    "buttons": {
+      "primary": "bg-[#0F1B2D] text-[#F7F5F0] px-8 py-4 text-sm font-medium tracking-wide hover:bg-[#1A2E4C] transition-all duration-300",
+      "secondary": "border border-[#0F1B2D]/20 text-[#0F1B2D] px-8 py-4 text-sm font-medium tracking-wide hover:bg-[#0F1B2D]/5 transition-all duration-300",
+      "accent": "bg-[#C75B39] text-white px-8 py-4 text-sm font-medium tracking-wide hover:bg-[#A84A2D] transition-all duration-300"
+    },
+    "cards": {
+      "style": "Flat #FFFFFF or transparent background, 1px border border-[#0F1B2D]/10. Padding p-8 to p-12. NO drop shadows default.",
+      "hover_state": "-translate-y-1 shadow-[0_12px_40px_rgba(15,27,45,0.06)] border-[#0F1B2D]/20 transition-all duration-400 ease-out"
+    },
+    "icons": {
+      "library": "lucide-react",
+      "style": "Thin-line. Set strokeWidth={1} or {1.5}. Color: #C75B39 or #0F1B2D depending on emphasis."
+    },
+    "marquee": {
+      "style": "The 'Editorial Ribbon' Option A. Slow drift, subtle opacity (text-[#0F1B2D]/40), uppercase tracked out text or thin logos separating sections."
+    }
+  },
+  "motion": {
+    "global": "Subtle, sophisticated, unhurried.",
+    "scroll_reveal": "initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }} viewport={{ once: true, margin: '-10%' }}",
+    "image_parallax": "Use Framer Motion useScroll and useTransform to move images slightly on scroll (y: -5% to 5%).",
+    "stats_count_up": "Use framer-motion to count up stats when in view. Font should be massive Cormorant Garamond."
+  },
+  "media": {
+    "hero_image": {
+      "url": "https://images.unsplash.com/photo-1520440229-6469a149ac59",
+      "description": "Milan Cathedral - use in a massive 80vh container with slight parallax. No heavy black overlay, use a subtle gradient from #F7F5F0 to transparent if text needs contrast, or place text adjacent.",
+      "category": "hero"
+    },
+    "architecture_bento_1": {
+      "url": "https://images.pexels.com/photos/34334963/pexels-photo-34334963.jpeg",
+      "description": "Galleria Vittorio Emanuele II tall shot. Perfect for tall vertical bento box.",
+      "category": "texture"
+    },
+    "architecture_bento_2": {
+      "url": "https://images.pexels.com/photos/37654743/pexels-photo-37654743.jpeg",
+      "description": "Baroque facade in Milan.",
+      "category": "texture"
+    },
+    "campus_street": {
+      "url": "https://images.pexels.com/photos/36505473/pexels-photo-36505473.jpeg",
+      "description": "Narrow street in Turin, warm daylight. Good for About Us or Life in Italy section.",
+      "category": "about"
+    },
+    "library": {
+      "url": "https://images.pexels.com/photos/14453954/pexels-photo-14453954.jpeg",
+      "description": "Modern expansive library. Perfect for 'İtalya'da Eğitim' hub header.",
+      "category": "education"
+    }
+  },
+  "pages_structure": [
+    "Ana Sayfa (Home)",
+    "Hakkımızda (About Us)",
+    "Hizmetler (Services)",
+    "İtalya'da Eğitim (Education Hub: Universities, DSU, Applications)",
+    "Başarı Hikayeleri (Success Stories)",
+    "Webinar & Etkinlikler (Events)",
+    "Blog",
+    "İletişim (Contact)"
+  ],
+  "testing": {
+    "mandate": "ALL interactive and key informational elements MUST include a data-testid attribute.",
+    "convention": "kebab-case, role-based. e.g., data-testid='hero-cta-consultation', data-testid='nav-link-services'."
+  },
+  "instructions_to_main_agent": [
+    "Build the UI in React using Tailwind CSS. Do NOT use Shadcn UI for the marketing layout, use pure HTML/Tailwind for the sophisticated overlapping/bento layouts as per the rules.",
+    "You MAY use Shadcn UI strictly for the forms (Contact form, Webinar Registration) but override their default Vercel-like styles to match the editorial bone/navy theme.",
+    "Integrate lucide-react with strokeWidth={1} for all iconography.",
+    "Ensure the EN/TR language toggle is present in the header. (Mock the actual translation state for now).",
+    "Implement the 'stats count up' using framer-motion.",
+    "Inject the provided Unsplash/Pexels URLs directly. NEVER use placeholder image services.",
+    "Strictly follow the color hex codes provided in this JSON.",
+    "Remember to inject Google Fonts via next/font or standard <link> in index.css: Cormorant Garamond (300,400,500,600) and Inter (300,400,500)."
+  ]
+}

@@ -182,6 +182,11 @@ export const translations = {
         filterLang: "Dil",
         all: "Tümü",
       },
+      map: {
+        title: "İnteraktif İtalya üniversite haritası",
+        sub: "Bir bölgeye tıklayın; o bölgedeki üniversiteler ve İngilizce verilen lisans/yüksek lisans programları detaylıca açılır. Filtre çubuğu ile aramayı eğitim seviyesi, üniversite tipi, şehir veya program adı üzerinden daraltabilirsiniz.",
+        disclaimer: "Veriler resmi kaynaklardan derlenir ve düzenli olarak güncellenir. Boş alanlar bilinçli olarak placeholder bırakılmıştır.",
+      },
       dsu: {
         title: "DSU ve burs çerçevesi",
         body:
@@ -437,6 +442,11 @@ export const translations = {
         filterField: "Field",
         filterLang: "Language",
         all: "All",
+      },
+      map: {
+        title: "Interactive map of Italian universities",
+        sub: "Click a region to reveal its universities and their English-taught Bachelor / Master programs. Use the filter bar to narrow by education level, university type, city or program name.",
+        disclaimer: "Data is compiled from official sources and updated regularly. Empty fields are intentional placeholders.",
       },
       dsu: {
         title: "DSU and scholarship framework",

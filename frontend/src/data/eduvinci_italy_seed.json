@@ -1,0 +1,2926 @@
+{
+  "schemaVersion": "1.0",
+  "academicYear": "2026-2027",
+  "lastVerified": "2026-06-24",
+  "note": "İskelet veri. Program dizileri ve hızlı bayatlayan alanlar 'güncellenecek' / null. Yalnızca resmi üniversite kataloglarından doldurulmalıdır.",
+  "onlineUniversitiesCategory": {
+    "note": "Telematik/online üniversiteler bölgeye bağlanmaz, ayrı kategoride tutulur.",
+    "universities": []
+  },
+  "regions": [
+    {
+      "id": "piemonte",
+      "name": "Piemonte",
+      "nameEn": "Piedmont",
+      "capital": "Torino",
+      "areaKm2": 25387,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "medium",
+      "mapCentroid": {
+        "lat": 45.05,
+        "lng": 7.7
+      },
+      "universities": [
+        {
+          "id": "unito",
+          "name": "Università degli Studi di Torino",
+          "nameEn": "University of Turin",
+          "shortName": "UniTo",
+          "city": "Torino",
+          "type": "state",
+          "founded": 1404,
+          "website": "https://www.unito.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "polito",
+          "name": "Politecnico di Torino",
+          "nameEn": "Polytechnic University of Turin",
+          "shortName": "PoliTO",
+          "city": "Torino",
+          "type": "state",
+          "founded": 1859,
+          "website": "https://www.polito.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "upo",
+          "name": "Università del Piemonte Orientale",
+          "nameEn": "University of Eastern Piedmont",
+          "shortName": "UPO",
+          "city": "Vercelli",
+          "type": "state",
+          "founded": 1998,
+          "website": "https://www.uniupo.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unisg",
+          "name": "Università di Scienze Gastronomiche",
+          "nameEn": "University of Gastronomic Sciences",
+          "shortName": "UNISG",
+          "city": "Pollenzo",
+          "type": "private",
+          "founded": 2004,
+          "website": "https://www.unisg.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "valledaosta",
+      "name": "Valle d'Aosta",
+      "nameEn": "Aosta Valley",
+      "capital": "Aosta",
+      "areaKm2": 3261,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "medium",
+      "mapCentroid": {
+        "lat": 45.73,
+        "lng": 7.32
+      },
+      "universities": [
+        {
+          "id": "univda",
+          "name": "Università della Valle d'Aosta",
+          "nameEn": "University of Aosta Valley",
+          "shortName": "UniVdA",
+          "city": "Aosta",
+          "type": "state",
+          "founded": 2000,
+          "website": "https://www.univda.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "lombardia",
+      "name": "Lombardia",
+      "nameEn": "Lombardy",
+      "capital": "Milano",
+      "areaKm2": 23864,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "very_high",
+      "mapCentroid": {
+        "lat": 45.58,
+        "lng": 9.7
+      },
+      "universities": [
+        {
+          "id": "unimi",
+          "name": "Università degli Studi di Milano",
+          "nameEn": "University of Milan",
+          "shortName": "UniMi",
+          "city": "Milano",
+          "type": "state",
+          "founded": 1924,
+          "website": "https://www.unimi.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "polimi",
+          "name": "Politecnico di Milano",
+          "nameEn": "Polytechnic University of Milan",
+          "shortName": "PoliMi",
+          "city": "Milano",
+          "type": "state",
+          "founded": 1863,
+          "website": "https://www.polimi.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unimib",
+          "name": "Università degli Studi di Milano-Bicocca",
+          "nameEn": "University of Milano-Bicocca",
+          "shortName": "Bicocca",
+          "city": "Milano",
+          "type": "state",
+          "founded": 1998,
+          "website": "https://www.unimib.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "bocconi",
+          "name": "Università Commerciale Luigi Bocconi",
+          "nameEn": "Bocconi University",
+          "shortName": "Bocconi",
+          "city": "Milano",
+          "type": "private",
+          "founded": 1902,
+          "website": "https://www.unibocconi.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unicatt",
+          "name": "Università Cattolica del Sacro Cuore",
+          "nameEn": "Catholic University of the Sacred Heart",
+          "shortName": "UniCatt",
+          "city": "Milano",
+          "type": "private",
+          "founded": 1921,
+          "website": "https://www.unicatt.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "humanitas",
+          "name": "Humanitas University",
+          "nameEn": "Humanitas University",
+          "shortName": "Hunimed",
+          "city": "Milano",
+          "type": "private",
+          "founded": 2014,
+          "website": "https://www.hunimed.eu",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unisr",
+          "name": "Università Vita-Salute San Raffaele",
+          "nameEn": "Vita-Salute San Raffaele University",
+          "shortName": "UniSR",
+          "city": "Milano",
+          "type": "private",
+          "founded": 1996,
+          "website": "https://www.unisr.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unipv",
+          "name": "Università degli Studi di Pavia",
+          "nameEn": "University of Pavia",
+          "shortName": "UniPv",
+          "city": "Pavia",
+          "type": "state",
+          "founded": 1361,
+          "website": "https://www.unipv.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "iusspavia",
+          "name": "Istituto Universitario di Studi Superiori di Pavia",
+          "nameEn": "IUSS Pavia",
+          "shortName": "IUSS",
+          "city": "Pavia",
+          "type": "special",
+          "founded": 1997,
+          "website": "https://www.iusspavia.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unibg",
+          "name": "Università degli Studi di Bergamo",
+          "nameEn": "University of Bergamo",
+          "shortName": "UniBg",
+          "city": "Bergamo",
+          "type": "state",
+          "founded": 1968,
+          "website": "https://www.unibg.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unibs",
+          "name": "Università degli Studi di Brescia",
+          "nameEn": "University of Brescia",
+          "shortName": "UniBs",
+          "city": "Brescia",
+          "type": "state",
+          "founded": 1982,
+          "website": "https://www.unibs.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "uninsubria",
+          "name": "Università degli Studi dell'Insubria",
+          "nameEn": "University of Insubria",
+          "shortName": "Insubria",
+          "city": "Varese",
+          "type": "state",
+          "founded": 1998,
+          "website": "https://www.uninsubria.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "trentinoaltoadige",
+      "name": "Trentino-Alto Adige",
+      "nameEn": "Trentino-South Tyrol",
+      "capital": "Trento",
+      "areaKm2": 13606,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "high",
+      "mapCentroid": {
+        "lat": 46.3,
+        "lng": 11.3
+      },
+      "universities": [
+        {
+          "id": "unitn",
+          "name": "Università degli Studi di Trento",
+          "nameEn": "University of Trento",
+          "shortName": "UniTn",
+          "city": "Trento",
+          "type": "state",
+          "founded": 1962,
+          "website": "https://www.unitn.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unibz",
+          "name": "Libera Università di Bolzano",
+          "nameEn": "Free University of Bozen-Bolzano",
+          "shortName": "unibz",
+          "city": "Bolzano",
+          "type": "private",
+          "founded": 1997,
+          "website": "https://www.unibz.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "veneto",
+      "name": "Veneto",
+      "nameEn": "Veneto",
+      "capital": "Venezia",
+      "areaKm2": 18345,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "high",
+      "mapCentroid": {
+        "lat": 45.7,
+        "lng": 11.9
+      },
+      "universities": [
+        {
+          "id": "unipd",
+          "name": "Università degli Studi di Padova",
+          "nameEn": "University of Padua",
+          "shortName": "UniPd",
+          "city": "Padova",
+          "type": "state",
+          "founded": 1222,
+          "website": "https://www.unipd.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unive",
+          "name": "Università Ca' Foscari Venezia",
+          "nameEn": "Ca' Foscari University of Venice",
+          "shortName": "Ca'Foscari",
+          "city": "Venezia",
+          "type": "state",
+          "founded": 1868,
+          "website": "https://www.unive.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "iuav",
+          "name": "Università IUAV di Venezia",
+          "nameEn": "Iuav University of Venice",
+          "shortName": "IUAV",
+          "city": "Venezia",
+          "type": "state",
+          "founded": 1926,
+          "website": "https://www.iuav.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "univr",
+          "name": "Università degli Studi di Verona",
+          "nameEn": "University of Verona",
+          "shortName": "UniVr",
+          "city": "Verona",
+          "type": "state",
+          "founded": 1982,
+          "website": "https://www.univr.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "friuliveneziagiulia",
+      "name": "Friuli Venezia Giulia",
+      "nameEn": "Friuli-Venezia Giulia",
+      "capital": "Trieste",
+      "areaKm2": 7862,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "medium",
+      "mapCentroid": {
+        "lat": 46.1,
+        "lng": 13.1
+      },
+      "universities": [
+        {
+          "id": "units",
+          "name": "Università degli Studi di Trieste",
+          "nameEn": "University of Trieste",
+          "shortName": "UniTs",
+          "city": "Trieste",
+          "type": "state",
+          "founded": 1924,
+          "website": "https://www.units.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "uniud",
+          "name": "Università degli Studi di Udine",
+          "nameEn": "University of Udine",
+          "shortName": "UniUd",
+          "city": "Udine",
+          "type": "state",
+          "founded": 1978,
+          "website": "https://www.uniud.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "sissa",
+          "name": "Scuola Internazionale Superiore di Studi Avanzati",
+          "nameEn": "International School for Advanced Studies",
+          "shortName": "SISSA",
+          "city": "Trieste",
+          "type": "special",
+          "founded": 1978,
+          "website": "https://www.sissa.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "liguria",
+      "name": "Liguria",
+      "nameEn": "Liguria",
+      "capital": "Genova",
+      "areaKm2": 5416,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "high",
+      "mapCentroid": {
+        "lat": 44.3,
+        "lng": 8.7
+      },
+      "universities": [
+        {
+          "id": "unige",
+          "name": "Università degli Studi di Genova",
+          "nameEn": "University of Genoa",
+          "shortName": "UniGe",
+          "city": "Genova",
+          "type": "state",
+          "founded": 1481,
+          "website": "https://www.unige.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "emiliaromagna",
+      "name": "Emilia-Romagna",
+      "nameEn": "Emilia-Romagna",
+      "capital": "Bologna",
+      "areaKm2": 22453,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "high",
+      "mapCentroid": {
+        "lat": 44.5,
+        "lng": 11.0
+      },
+      "universities": [
+        {
+          "id": "unibo",
+          "name": "Alma Mater Studiorum – Università di Bologna",
+          "nameEn": "University of Bologna",
+          "shortName": "UniBo",
+          "city": "Bologna",
+          "type": "state",
+          "founded": 1088,
+          "website": "https://www.unibo.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unimore",
+          "name": "Università degli Studi di Modena e Reggio Emilia",
+          "nameEn": "University of Modena and Reggio Emilia",
+          "shortName": "UniMoRe",
+          "city": "Modena",
+          "type": "state",
+          "founded": 1175,
+          "website": "https://www.unimore.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unipr",
+          "name": "Università degli Studi di Parma",
+          "nameEn": "University of Parma",
+          "shortName": "UniPr",
+          "city": "Parma",
+          "type": "state",
+          "founded": 1117,
+          "website": "https://www.unipr.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unife",
+          "name": "Università degli Studi di Ferrara",
+          "nameEn": "University of Ferrara",
+          "shortName": "UniFe",
+          "city": "Ferrara",
+          "type": "state",
+          "founded": 1391,
+          "website": "https://www.unife.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "toscana",
+      "name": "Toscana",
+      "nameEn": "Tuscany",
+      "capital": "Firenze",
+      "areaKm2": 22987,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "high",
+      "mapCentroid": {
+        "lat": 43.5,
+        "lng": 11.1
+      },
+      "universities": [
+        {
+          "id": "unifi",
+          "name": "Università degli Studi di Firenze",
+          "nameEn": "University of Florence",
+          "shortName": "UniFi",
+          "city": "Firenze",
+          "type": "state",
+          "founded": 1321,
+          "website": "https://www.unifi.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unipi",
+          "name": "Università di Pisa",
+          "nameEn": "University of Pisa",
+          "shortName": "UniPi",
+          "city": "Pisa",
+          "type": "state",
+          "founded": 1343,
+          "website": "https://www.unipi.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unisi",
+          "name": "Università degli Studi di Siena",
+          "nameEn": "University of Siena",
+          "shortName": "UniSi",
+          "city": "Siena",
+          "type": "state",
+          "founded": 1240,
+          "website": "https://www.unisi.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "sns",
+          "name": "Scuola Normale Superiore",
+          "nameEn": "Scuola Normale Superiore",
+          "shortName": "SNS",
+          "city": "Pisa",
+          "type": "special",
+          "founded": 1810,
+          "website": "https://www.sns.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "santanna",
+          "name": "Scuola Superiore Sant'Anna",
+          "nameEn": "Sant'Anna School of Advanced Studies",
+          "shortName": "Sant'Anna",
+          "city": "Pisa",
+          "type": "special",
+          "founded": 1987,
+          "website": "https://www.santannapisa.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "imtlucca",
+          "name": "IMT School for Advanced Studies Lucca",
+          "nameEn": "IMT Lucca",
+          "shortName": "IMT",
+          "city": "Lucca",
+          "type": "special",
+          "founded": 2005,
+          "website": "https://www.imtlucca.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "umbria",
+      "name": "Umbria",
+      "nameEn": "Umbria",
+      "capital": "Perugia",
+      "areaKm2": 8464,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "medium",
+      "mapCentroid": {
+        "lat": 43.0,
+        "lng": 12.5
+      },
+      "universities": [
+        {
+          "id": "unipg",
+          "name": "Università degli Studi di Perugia",
+          "nameEn": "University of Perugia",
+          "shortName": "UniPg",
+          "city": "Perugia",
+          "type": "state",
+          "founded": 1308,
+          "website": "https://www.unipg.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unistrapg",
+          "name": "Università per Stranieri di Perugia",
+          "nameEn": "University for Foreigners of Perugia",
+          "shortName": "UniStraPg",
+          "city": "Perugia",
+          "type": "state",
+          "founded": 1925,
+          "website": "https://www.unistrapg.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "marche",
+      "name": "Marche",
+      "nameEn": "Marche",
+      "capital": "Ancona",
+      "areaKm2": 9401,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "medium",
+      "mapCentroid": {
+        "lat": 43.4,
+        "lng": 13.1
+      },
+      "universities": [
+        {
+          "id": "univpm",
+          "name": "Università Politecnica delle Marche",
+          "nameEn": "Marche Polytechnic University",
+          "shortName": "UnivPM",
+          "city": "Ancona",
+          "type": "state",
+          "founded": 1969,
+          "website": "https://www.univpm.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unimc",
+          "name": "Università degli Studi di Macerata",
+          "nameEn": "University of Macerata",
+          "shortName": "UniMc",
+          "city": "Macerata",
+          "type": "state",
+          "founded": 1290,
+          "website": "https://www.unimc.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unicam",
+          "name": "Università degli Studi di Camerino",
+          "nameEn": "University of Camerino",
+          "shortName": "UniCam",
+          "city": "Camerino",
+          "type": "state",
+          "founded": 1336,
+          "website": "https://www.unicam.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "uniurb",
+          "name": "Università degli Studi di Urbino Carlo Bo",
+          "nameEn": "University of Urbino",
+          "shortName": "UniUrb",
+          "city": "Urbino",
+          "type": "state",
+          "founded": 1506,
+          "website": "https://www.uniurb.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "lazio",
+      "name": "Lazio",
+      "nameEn": "Lazio",
+      "capital": "Roma",
+      "areaKm2": 17232,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "high",
+      "mapCentroid": {
+        "lat": 41.9,
+        "lng": 12.7
+      },
+      "universities": [
+        {
+          "id": "uniroma1",
+          "name": "Sapienza Università di Roma",
+          "nameEn": "Sapienza University of Rome",
+          "shortName": "Sapienza",
+          "city": "Roma",
+          "type": "state",
+          "founded": 1303,
+          "website": "https://www.uniroma1.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "uniroma2",
+          "name": "Università degli Studi di Roma Tor Vergata",
+          "nameEn": "University of Rome Tor Vergata",
+          "shortName": "TorVergata",
+          "city": "Roma",
+          "type": "state",
+          "founded": 1982,
+          "website": "https://www.uniroma2.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "uniroma3",
+          "name": "Università degli Studi Roma Tre",
+          "nameEn": "Roma Tre University",
+          "shortName": "RomaTre",
+          "city": "Roma",
+          "type": "state",
+          "founded": 1992,
+          "website": "https://www.uniroma3.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "luiss",
+          "name": "LUISS Guido Carli",
+          "nameEn": "LUISS Guido Carli",
+          "shortName": "LUISS",
+          "city": "Roma",
+          "type": "private",
+          "founded": 1966,
+          "website": "https://www.luiss.edu",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unicampus",
+          "name": "Università Campus Bio-Medico di Roma",
+          "nameEn": "Campus Bio-Medico University of Rome",
+          "shortName": "UCBM",
+          "city": "Roma",
+          "type": "private",
+          "founded": 1993,
+          "website": "https://www.unicampus.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "lumsa",
+          "name": "Libera Università Maria SS. Assunta",
+          "nameEn": "LUMSA University",
+          "shortName": "LUMSA",
+          "city": "Roma",
+          "type": "private",
+          "founded": 1939,
+          "website": "https://www.lumsa.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unicas",
+          "name": "Università degli Studi di Cassino e del Lazio Meridionale",
+          "nameEn": "University of Cassino",
+          "shortName": "UniCas",
+          "city": "Cassino",
+          "type": "state",
+          "founded": 1979,
+          "website": "https://www.unicas.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unitus",
+          "name": "Università degli Studi della Tuscia",
+          "nameEn": "University of Tuscia",
+          "shortName": "UniTus",
+          "city": "Viterbo",
+          "type": "state",
+          "founded": 1979,
+          "website": "https://www.unitus.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "abruzzo",
+      "name": "Abruzzo",
+      "nameEn": "Abruzzo",
+      "capital": "L'Aquila",
+      "areaKm2": 10832,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "low",
+      "mapCentroid": {
+        "lat": 42.2,
+        "lng": 13.7
+      },
+      "universities": [
+        {
+          "id": "univaq",
+          "name": "Università degli Studi dell'Aquila",
+          "nameEn": "University of L'Aquila",
+          "shortName": "UnivAQ",
+          "city": "L'Aquila",
+          "type": "state",
+          "founded": 1596,
+          "website": "https://www.univaq.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unich",
+          "name": "Università degli Studi G. d'Annunzio Chieti-Pescara",
+          "nameEn": "University of Chieti-Pescara",
+          "shortName": "UdA",
+          "city": "Chieti",
+          "type": "state",
+          "founded": 1965,
+          "website": "https://www.unich.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unite",
+          "name": "Università degli Studi di Teramo",
+          "nameEn": "University of Teramo",
+          "shortName": "UniTe",
+          "city": "Teramo",
+          "type": "state",
+          "founded": 1993,
+          "website": "https://www.unite.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "gssi",
+          "name": "Gran Sasso Science Institute",
+          "nameEn": "Gran Sasso Science Institute",
+          "shortName": "GSSI",
+          "city": "L'Aquila",
+          "type": "special",
+          "founded": 2012,
+          "website": "https://www.gssi.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "molise",
+      "name": "Molise",
+      "nameEn": "Molise",
+      "capital": "Campobasso",
+      "areaKm2": 4461,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "low",
+      "mapCentroid": {
+        "lat": 41.6,
+        "lng": 14.6
+      },
+      "universities": [
+        {
+          "id": "unimol",
+          "name": "Università degli Studi del Molise",
+          "nameEn": "University of Molise",
+          "shortName": "UniMol",
+          "city": "Campobasso",
+          "type": "state",
+          "founded": 1982,
+          "website": "https://www.unimol.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "campania",
+      "name": "Campania",
+      "nameEn": "Campania",
+      "capital": "Napoli",
+      "areaKm2": 13671,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "medium",
+      "mapCentroid": {
+        "lat": 40.9,
+        "lng": 14.8
+      },
+      "universities": [
+        {
+          "id": "unina",
+          "name": "Università degli Studi di Napoli Federico II",
+          "nameEn": "University of Naples Federico II",
+          "shortName": "UniNa",
+          "city": "Napoli",
+          "type": "state",
+          "founded": 1224,
+          "website": "https://www.unina.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unicampania",
+          "name": "Università degli Studi della Campania Luigi Vanvitelli",
+          "nameEn": "University of Campania Luigi Vanvitelli",
+          "shortName": "Vanvitelli",
+          "city": "Caserta",
+          "type": "state",
+          "founded": 1991,
+          "website": "https://www.unicampania.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unior",
+          "name": "Università degli Studi di Napoli L'Orientale",
+          "nameEn": "University of Naples L'Orientale",
+          "shortName": "UniOr",
+          "city": "Napoli",
+          "type": "state",
+          "founded": 1732,
+          "website": "https://www.unior.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "uniparthenope",
+          "name": "Università degli Studi di Napoli Parthenope",
+          "nameEn": "Parthenope University of Naples",
+          "shortName": "Parthenope",
+          "city": "Napoli",
+          "type": "state",
+          "founded": 1919,
+          "website": "https://www.uniparthenope.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unisa",
+          "name": "Università degli Studi di Salerno",
+          "nameEn": "University of Salerno",
+          "shortName": "UniSa",
+          "city": "Salerno",
+          "type": "state",
+          "founded": 1968,
+          "website": "https://www.unisa.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unisannio",
+          "name": "Università degli Studi del Sannio",
+          "nameEn": "University of Sannio",
+          "shortName": "UniSannio",
+          "city": "Benevento",
+          "type": "state",
+          "founded": 1998,
+          "website": "https://www.unisannio.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unisob",
+          "name": "Università Suor Orsola Benincasa",
+          "nameEn": "Suor Orsola Benincasa University",
+          "shortName": "UniSOB",
+          "city": "Napoli",
+          "type": "private",
+          "founded": 1885,
+          "website": "https://www.unisob.na.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "puglia",
+      "name": "Puglia",
+      "nameEn": "Apulia",
+      "capital": "Bari",
+      "areaKm2": 19541,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "low",
+      "mapCentroid": {
+        "lat": 41.1,
+        "lng": 16.5
+      },
+      "universities": [
+        {
+          "id": "uniba",
+          "name": "Università degli Studi di Bari Aldo Moro",
+          "nameEn": "University of Bari Aldo Moro",
+          "shortName": "UniBa",
+          "city": "Bari",
+          "type": "state",
+          "founded": 1924,
+          "website": "https://www.uniba.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "poliba",
+          "name": "Politecnico di Bari",
+          "nameEn": "Polytechnic University of Bari",
+          "shortName": "PoliBa",
+          "city": "Bari",
+          "type": "state",
+          "founded": 1990,
+          "website": "https://www.poliba.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unisalento",
+          "name": "Università del Salento",
+          "nameEn": "University of Salento",
+          "shortName": "UniSalento",
+          "city": "Lecce",
+          "type": "state",
+          "founded": 1955,
+          "website": "https://www.unisalento.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unifg",
+          "name": "Università degli Studi di Foggia",
+          "nameEn": "University of Foggia",
+          "shortName": "UniFg",
+          "city": "Foggia",
+          "type": "state",
+          "founded": 1999,
+          "website": "https://www.unifg.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "lum",
+          "name": "Libera Università Mediterranea Giuseppe Degennaro",
+          "nameEn": "LUM University",
+          "shortName": "LUM",
+          "city": "Casamassima",
+          "type": "private",
+          "founded": 1995,
+          "website": "https://www.lum.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "basilicata",
+      "name": "Basilicata",
+      "nameEn": "Basilicata",
+      "capital": "Potenza",
+      "areaKm2": 10073,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "low",
+      "mapCentroid": {
+        "lat": 40.5,
+        "lng": 16.1
+      },
+      "universities": [
+        {
+          "id": "unibas",
+          "name": "Università degli Studi della Basilicata",
+          "nameEn": "University of Basilicata",
+          "shortName": "UniBas",
+          "city": "Potenza",
+          "type": "state",
+          "founded": 1982,
+          "website": "https://www.unibas.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "calabria",
+      "name": "Calabria",
+      "nameEn": "Calabria",
+      "capital": "Catanzaro",
+      "areaKm2": 15222,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "low",
+      "mapCentroid": {
+        "lat": 39.0,
+        "lng": 16.5
+      },
+      "universities": [
+        {
+          "id": "unical",
+          "name": "Università della Calabria",
+          "nameEn": "University of Calabria",
+          "shortName": "UniCal",
+          "city": "Rende",
+          "type": "state",
+          "founded": 1972,
+          "website": "https://www.unical.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unicz",
+          "name": "Università degli Studi Magna Graecia di Catanzaro",
+          "nameEn": "Magna Graecia University of Catanzaro",
+          "shortName": "UMG",
+          "city": "Catanzaro",
+          "type": "state",
+          "founded": 1998,
+          "website": "https://www.unicz.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unirc",
+          "name": "Università degli Studi Mediterranea di Reggio Calabria",
+          "nameEn": "Mediterranea University of Reggio Calabria",
+          "shortName": "UniRC",
+          "city": "Reggio Calabria",
+          "type": "state",
+          "founded": 1968,
+          "website": "https://www.unirc.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "sicilia",
+      "name": "Sicilia",
+      "nameEn": "Sicily",
+      "capital": "Palermo",
+      "areaKm2": 25711,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "low",
+      "mapCentroid": {
+        "lat": 37.6,
+        "lng": 14.0
+      },
+      "universities": [
+        {
+          "id": "unipa",
+          "name": "Università degli Studi di Palermo",
+          "nameEn": "University of Palermo",
+          "shortName": "UniPa",
+          "city": "Palermo",
+          "type": "state",
+          "founded": 1806,
+          "website": "https://www.unipa.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unict",
+          "name": "Università degli Studi di Catania",
+          "nameEn": "University of Catania",
+          "shortName": "UniCt",
+          "city": "Catania",
+          "type": "state",
+          "founded": 1434,
+          "website": "https://www.unict.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unime",
+          "name": "Università degli Studi di Messina",
+          "nameEn": "University of Messina",
+          "shortName": "UniMe",
+          "city": "Messina",
+          "type": "state",
+          "founded": 1548,
+          "website": "https://www.unime.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "unikore",
+          "name": "Università degli Studi di Enna Kore",
+          "nameEn": "Kore University of Enna",
+          "shortName": "UniKore",
+          "city": "Enna",
+          "type": "private",
+          "founded": 2004,
+          "website": "https://www.unikore.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    },
+    {
+      "id": "sardegna",
+      "name": "Sardegna",
+      "nameEn": "Sardinia",
+      "capital": "Cagliari",
+      "areaKm2": 24100,
+      "population": null,
+      "studentPopulation": "güncellenecek",
+      "internationalStudentDensity": "güncellenecek",
+      "costOfLivingLevel": "medium",
+      "mapCentroid": {
+        "lat": 40.0,
+        "lng": 9.0
+      },
+      "universities": [
+        {
+          "id": "unica",
+          "name": "Università degli Studi di Cagliari",
+          "nameEn": "University of Cagliari",
+          "shortName": "UniCa",
+          "city": "Cagliari",
+          "type": "state",
+          "founded": 1606,
+          "website": "https://www.unica.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        },
+        {
+          "id": "uniss",
+          "name": "Università degli Studi di Sassari",
+          "nameEn": "University of Sassari",
+          "shortName": "UniSs",
+          "city": "Sassari",
+          "type": "state",
+          "founded": 1562,
+          "website": "https://www.uniss.it",
+          "internationalOfficeUrl": "güncellenecek",
+          "degreeCatalogueUrl": "güncellenecek",
+          "rankings": {
+            "qs": "güncellenecek",
+            "the": "güncellenecek"
+          },
+          "logoUrl": "güncellenecek",
+          "heroImageUrl": "güncellenecek",
+          "internationalPopularity": "güncellenecek",
+          "strongestFields": [
+            "güncellenecek"
+          ],
+          "mostPreferredEnglishPrograms": [
+            "güncellenecek"
+          ],
+          "tuitionRangeEurPerYear": {
+            "min": null,
+            "max": null,
+            "note": "güncellenecek — DSU/ISEE'ye göre değişir"
+          },
+          "bachelorPrograms": [],
+          "masterPrograms": [],
+          "lastVerified": "güncellenecek"
+        }
+      ]
+    }
+  ]
+}

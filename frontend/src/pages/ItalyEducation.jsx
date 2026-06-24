@@ -3,37 +3,13 @@ import { Link } from "react-router-dom";
 import { ArrowUpRight, CheckCircle2 } from "lucide-react";
 import { useLang } from "../i18n/LanguageContext";
 import Reveal from "../components/Reveal";
+import InteractiveItalyMap from "../components/italy/InteractiveItalyMap";
 
 export default function ItalyEducation() {
   const { t } = useLang();
   const exams = t("italy.exams.items");
-  const unis = t("italy.universities.list");
   const dsu = t("italy.dsu");
   const process = t("italy.process");
-  const labels = t("italy.universities");
-
-  const [city, setCity] = useState("all");
-  const [field, setField] = useState("all");
-  const [lang, setLangFilter] = useState("all");
-
-  const cities = useMemo(() => Array.from(new Set(unis.map((u) => u.city))), [unis]);
-  const fields = useMemo(
-    () =>
-      Array.from(
-        new Set(
-          unis.flatMap((u) => u.field.split(" · ").map((x) => x.trim()))
-        )
-      ),
-    [unis]
-  );
-  const langs = useMemo(() => Array.from(new Set(unis.map((u) => u.lang))), [unis]);
-
-  const filtered = unis.filter(
-    (u) =>
-      (city === "all" || u.city === city) &&
-      (field === "all" || u.field.includes(field)) &&
-      (lang === "all" || u.lang === lang)
-  );
 
   return (
     <main>
@@ -81,58 +57,28 @@ export default function ItalyEducation() {
 
       <div className="ev-divider" />
 
-      {/* UNIVERSITIES */}
+      {/* UNIVERSITIES — INTERACTIVE MAP */}
       <section className="section" id="universities">
         <div className="container-ev">
           <Reveal><div className="overline">{t("italy.sections.unis")}</div></Reveal>
           <Reveal delay={0.05}>
-            <h2 className="font-serif mt-5 text-4xl md:text-5xl text-[#0F1B2D]">{labels.title}</h2>
+            <h2 className="font-serif mt-5 text-4xl md:text-5xl text-[#0F1B2D]">
+              {t("italy.map.title")}
+            </h2>
+          </Reveal>
+          <Reveal delay={0.1}>
+            <p className="mt-5 max-w-2xl text-[15px] text-[#5A5A5A] leading-relaxed">
+              {t("italy.map.sub")}
+            </p>
           </Reveal>
 
-          <div className="mt-10 grid grid-cols-1 md:grid-cols-3 gap-6 max-w-3xl">
-            <div>
-              <label className="ev-label">{labels.filterCity}</label>
-              <select className="ev-select" value={city} onChange={(e) => setCity(e.target.value)} data-testid="filter-city">
-                <option value="all">{labels.all}</option>
-                {cities.map((c) => <option key={c} value={c}>{c}</option>)}
-              </select>
-            </div>
-            <div>
-              <label className="ev-label">{labels.filterField}</label>
-              <select className="ev-select" value={field} onChange={(e) => setField(e.target.value)} data-testid="filter-field">
-                <option value="all">{labels.all}</option>
-                {fields.map((c) => <option key={c} value={c}>{c}</option>)}
-              </select>
-            </div>
-            <div>
-              <label className="ev-label">{labels.filterLang}</label>
-              <select className="ev-select" value={lang} onChange={(e) => setLangFilter(e.target.value)} data-testid="filter-lang">
-                <option value="all">{labels.all}</option>
-                {langs.map((c) => <option key={c} value={c}>{c}</option>)}
-              </select>
-            </div>
+          <div className="mt-12">
+            <InteractiveItalyMap />
           </div>
 
-          <div className="mt-12 grid md:grid-cols-2 gap-5" data-testid="universities-list">
-            {filtered.map((u) => (
-              <Reveal key={u.name}>
-                <div className="ev-card p-8 h-full">
-                  <div className="font-serif text-2xl md:text-3xl text-[#0F1B2D] leading-tight">{u.name}</div>
-                  <div className="mt-3 text-[12px] tracking-[0.18em] uppercase text-[#C75B39]">{u.city}</div>
-                  <div className="mt-5 ev-divider pt-5 grid grid-cols-2 gap-4 text-[14px] text-[#5A5A5A]">
-                    <div>
-                      <div className="text-[11px] uppercase tracking-[0.18em] text-[#0F1B2D]/60">{labels.filterField}</div>
-                      <div className="mt-1">{u.field}</div>
-                    </div>
-                    <div>
-                      <div className="text-[11px] uppercase tracking-[0.18em] text-[#0F1B2D]/60">{labels.filterLang}</div>
-                      <div className="mt-1">{u.lang}</div>
-                    </div>
-                  </div>
-                </div>
-              </Reveal>
-            ))}
-          </div>
+          <p className="mt-8 text-[11px] tracking-[0.18em] uppercase text-[#5A5A5A]">
+            {t("italy.map.disclaimer")}
+          </p>
         </div>
       </section>
 

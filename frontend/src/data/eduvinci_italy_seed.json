@@ -32,8 +32,8 @@
           "type": "state",
           "founded": 1404,
           "website": "https://www.unito.it",
-          "internationalOfficeUrl": "güncellenecek",
-          "degreeCatalogueUrl": "güncellenecek",
+          "internationalOfficeUrl": "https://en.unito.it/studying-unito/international-degree-seeking-students",
+          "degreeCatalogueUrl": "https://en.unito.it/studying-unito/programs/degree-programs/degree-programs-english",
           "rankings": {
             "qs": "güncellenecek",
             "the": "güncellenecek"
@@ -42,7 +42,10 @@
           "heroImageUrl": "güncellenecek",
           "internationalPopularity": "güncellenecek",
           "strongestFields": [
-            "güncellenecek"
+            "Law",
+            "Medicine",
+            "Economics",
+            "Natural Sciences"
           ],
           "mostPreferredEnglishPrograms": [
             "güncellenecek"
@@ -52,9 +55,251 @@
             "max": null,
             "note": "güncellenecek — DSU/ISEE'ye göre değişir"
           },
-          "bachelorPrograms": [],
-          "masterPrograms": [],
-          "lastVerified": "güncellenecek"
+          "bachelorPrograms": [
+            {
+              "id": "unito-ba1",
+              "name": "Business & Management",
+              "faculty": "Department of Management",
+              "language": "English",
+              "durationYears": 3,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ba2",
+              "name": "Economics and Finance with Data Science",
+              "faculty": "Department of Social Studies, Applied Mathematics and Statistics",
+              "language": "English",
+              "durationYears": 3,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ba3",
+              "name": "Global Law and Transnational Legal Studies",
+              "faculty": "Department of Law",
+              "language": "English",
+              "durationYears": 3,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            }
+          ],
+          "masterPrograms": [
+            {
+              "id": "unito-ma1",
+              "name": "Area and Global Studies for International Cooperation",
+              "faculty": "Department of Cultures, Politics and Society",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma2",
+              "name": "Artificial Intelligence and High Performance Computing Technologies",
+              "faculty": "Department of Computer Science",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma3",
+              "name": "Artificial Intelligence for Biomedicine and Healthcare",
+              "faculty": "Department of Oncology",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma4",
+              "name": "Biotechnological and Chemical Sciences in Diagnostics",
+              "faculty": "Department of Molecular Biotechnology and Health Sciences",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma5",
+              "name": "Biotechnology for Neuroscience",
+              "faculty": "Department of Neurosciences Rita Levi Montalcini",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma6",
+              "name": "Business Administration",
+              "faculty": "Department of Management",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma7",
+              "name": "Cellular and Molecular Biology",
+              "faculty": "Department of Life Sciences and Systems Biology",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma8",
+              "name": "Cultural Heritage and Creativity for Tourism and Territorial Development",
+              "faculty": "Department of Historical Studies",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma9",
+              "name": "Digital Skills for Sustainable Societal Transition",
+              "faculty": "Interuniversity (UniTo – PoliTo)",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma10",
+              "name": "Economics",
+              "faculty": "Department of Economics, Social Studies, Applied Mathematics and Statistics",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma11",
+              "name": "Economics of Innovation for Sustainable Development",
+              "faculty": "Department of Economics and Statistics Cognetti de Martiis",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma12",
+              "name": "English and American Studies",
+              "faculty": "Department of Foreign Languages, Literatures and Modern Cultures",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma13",
+              "name": "European Legal Studies",
+              "faculty": "Department of Law",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma14",
+              "name": "Food Science and Technology",
+              "faculty": "Department of Agricultural, Forest and Food Sciences",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma15",
+              "name": "Language Technologies and Digital Humanities",
+              "faculty": "Department of Humanities",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma16",
+              "name": "Materials Science",
+              "faculty": "Department of Chemistry",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma17",
+              "name": "Molecular Biotechnology",
+              "faculty": "Department of Molecular Biotechnology and Health Sciences",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma18",
+              "name": "Quantitative Finance and Insurance",
+              "faculty": "Department of Economics, Social Studies, Applied Mathematics and Statistics",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma19",
+              "name": "Stochastics and Data Science",
+              "faculty": "Department of Mathematics Giuseppe Peano",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-ma20",
+              "name": "Economic Analysis and Policy",
+              "faculty": "Department of Cultures, Politics and Society",
+              "language": "English",
+              "durationYears": 2,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "unito-sc1",
+              "name": "Medicine and Surgery (6-year single cycle)",
+              "faculty": "Departments of Clinical and Biological Sciences and Oncology",
+              "language": "English",
+              "durationYears": 6,
+              "status": "open",
+              "admissionType": "güncellenecek",
+              "officialPageUrl": "güncellenecek"
+            }
+          ],
+          "lastVerified": "2026-06-24 (a.y. 2025-2026 official EN list)"
         },
         {
           "id": "polito",
@@ -65,8 +310,8 @@
           "type": "state",
           "founded": 1859,
           "website": "https://www.polito.it",
-          "internationalOfficeUrl": "güncellenecek",
-          "degreeCatalogueUrl": "güncellenecek",
+          "internationalOfficeUrl": "https://international.polito.it/",
+          "degreeCatalogueUrl": "https://www.polito.it/en/education/bachelor-s-degree-programmes",
           "rankings": {
             "qs": "güncellenecek",
             "the": "güncellenecek"
@@ -75,7 +320,9 @@
           "heroImageUrl": "güncellenecek",
           "internationalPopularity": "güncellenecek",
           "strongestFields": [
-            "güncellenecek"
+            "Engineering",
+            "Architecture",
+            "Design"
           ],
           "mostPreferredEnglishPrograms": [
             "güncellenecek"
@@ -85,9 +332,80 @@
             "max": null,
             "note": "güncellenecek — DSU/ISEE'ye göre değişir"
           },
-          "bachelorPrograms": [],
+          "bachelorPrograms": [
+            {
+              "id": "polito-ba1",
+              "name": "Civil and Environmental Engineering",
+              "faculty": "Engineering",
+              "language": "English",
+              "durationYears": 3,
+              "status": "open",
+              "admissionType": "capped_local (TIL admission test)",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "polito-ba2",
+              "name": "Computer Engineering",
+              "faculty": "Engineering",
+              "language": "English",
+              "durationYears": 3,
+              "status": "open",
+              "admissionType": "capped_local (TIL admission test)",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "polito-ba3",
+              "name": "Electronic and Communications Engineering",
+              "faculty": "Engineering",
+              "language": "English",
+              "durationYears": 3,
+              "status": "open",
+              "admissionType": "capped_local (TIL admission test)",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "polito-ba4",
+              "name": "Mechanical Engineering",
+              "faculty": "Engineering",
+              "language": "English",
+              "durationYears": 3,
+              "status": "open",
+              "admissionType": "capped_local (TIL admission test)",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "polito-ba5",
+              "name": "Automotive Engineering",
+              "faculty": "Engineering",
+              "language": "English",
+              "durationYears": 3,
+              "status": "open",
+              "admissionType": "capped_local (TIL admission test)",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "polito-ba6",
+              "name": "Industrial Manufacturing Technologies",
+              "faculty": "Engineering",
+              "language": "English",
+              "durationYears": 3,
+              "status": "open",
+              "admissionType": "capped_local (TIL admission test)",
+              "officialPageUrl": "güncellenecek"
+            },
+            {
+              "id": "polito-ba7",
+              "name": "Architecture",
+              "faculty": "Architecture, Design and Planning",
+              "language": "English",
+              "durationYears": 3,
+              "status": "open",
+              "admissionType": "capped_local (TIL admission test)",
+              "officialPageUrl": "güncellenecek"
+            }
+          ],
           "masterPrograms": [],
-          "lastVerified": "güncellenecek"
+          "lastVerified": "2026-06-24 (bachelors verified; English masters list NOT yet verified)"
         },
         {
           "id": "upo",

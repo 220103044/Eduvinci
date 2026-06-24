@@ -10,6 +10,7 @@ function ProgramCard({ p }) {
   if (!isPlaceholder(p.faculty)) meta.push(p.faculty);
   if (p.durationYears) meta.push(`${p.durationYears} yıl`);
   if (!isPlaceholder(p.language)) meta.push(p.language);
+  const hasAdmission = !isPlaceholder(p.admissionType);
   return (
     <div className="ev-card p-5">
       <div className="font-serif text-lg text-[#0F1B2D] leading-snug">{p.name}</div>
@@ -18,6 +19,11 @@ function ProgramCard({ p }) {
           {meta.map((m, i) => (
             <span key={i} className="border border-[#0F1B2D]/15 px-2 py-1">{m}</span>
           ))}
+        </div>
+      )}
+      {hasAdmission && (
+        <div className="mt-3 inline-flex items-center gap-1 text-[10px] tracking-[0.18em] uppercase text-[#C75B39] border border-[#C75B39]/40 px-2 py-1 bg-[#C75B39]/5">
+          {p.admissionType}
         </div>
       )}
       {p.officialPageUrl && !isPlaceholder(p.officialPageUrl) && (

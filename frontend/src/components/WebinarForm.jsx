@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { toast } from "sonner";
 import { ArrowUpRight } from "lucide-react";
 import { useLang } from "../i18n/LanguageContext";
-import { submitWebinarRegistration } from "../lib/api";
+import { sendWebinarToWhatsApp } from "../lib/whatsapp";
 import { FORM } from "../constants/testIds";
 
 export default function WebinarForm({ eventSlug = "imat-2026" }) {
@@ -15,7 +15,7 @@ export default function WebinarForm({ eventSlug = "imat-2026" }) {
     e.preventDefault();
     setBusy(true);
     try {
-      await submitWebinarRegistration({ ...data, event_slug: eventSlug });
+      sendWebinarToWhatsApp({ ...data, event_slug: eventSlug });
       toast.success(t("common.sent"));
       setData({ name: "", email: "", phone: "", target_program: "" });
     } catch {

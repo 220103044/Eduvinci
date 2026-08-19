@@ -1,8 +1,8 @@
 # EDUVINCI — Product Requirements (Living Doc)
 
 ## Original problem statement (summary)
-Build a premium, production-ready, fully responsive marketing website for EDUVINCI
-(WestEducation), an Italy-focused study-abroad consultancy that helps Turkish students
+Build a premium, production-ready, fully responsive marketing website for EDUVINCI,
+an Italy-focused study-abroad consultancy that helps Turkish students
 get admitted to Italian universities. Editorial-minimalist European feel (Oxbridge /
 premium law firm). Turkish primary, EN/TR toggle. Real backend storage for leads,
 dynamic MongoDB-backed blog. No fabricated stats/testimonials/prices.

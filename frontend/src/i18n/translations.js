@@ -118,7 +118,7 @@ export const translations = {
     about: {
       overline: "Hakkımızda",
       title: "İtalya'ya yönelmiş, sınav uzmanlığına dayalı bir danışmanlık.",
-      intro: "EDUVINCI (aynı zamanda WestEducation), iki danışmanın — Emirhan ve Sevilay — kurduğu, İtalya'da yerleşik bir eğitim danışmanlığıdır. Türk öğrencileri İtalyan üniversitelerine doğru bilgi ve doğru takvimle yönlendiririz.",
+      intro: "EDUVINCI, iki danışmanın — Emirhan ve Sevilay — kurduğu, İtalya'da yerleşik bir eğitim danışmanlığıdır. Türk öğrencileri İtalyan üniversitelerine doğru bilgi ve doğru takvimle yönlendiririz.",
       whyItalyTitle: "Neden İtalya?",
       whyItaly:
         "İtalya; kaliteli devlet üniversiteleri, İngilizce verilen programları, DSU çatısı altındaki burs sistemi ve uygun yaşam maliyetiyle Türk öğrenciler için stratejik bir hedeftir. Avantajı kullanmak için kuralların doğru bilinmesi gerekir.",
@@ -391,7 +391,7 @@ export const translations = {
     about: {
       overline: "About",
       title: "An Italy-focused consultancy built on exam expertise.",
-      intro: "EDUVINCI (also operating as WestEducation) is an Italy-based study consultancy founded by two consultants — Emirhan and Sevilay. We guide Turkish students into Italian universities with the right information on the right calendar.",
+      intro: "EDUVINCI is an Italy-based study consultancy founded by two consultants — Emirhan and Sevilay. We guide Turkish students into Italian universities with the right information on the right calendar.",
       whyItalyTitle: "Why Italy?",
       whyItaly:
         "Italy offers high-quality state universities, English-taught programs, the DSU scholarship framework and a reasonable cost of living — a strategic choice for Turkish students. Using that advantage requires accurate knowledge of the rules.",

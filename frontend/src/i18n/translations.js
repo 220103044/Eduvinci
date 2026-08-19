@@ -131,8 +131,16 @@ export const translations = {
       ],
       foundersTitle: "Kurucular",
       founders: [
-        { name: "Emirhan", role: "Kurucu Ortak · Süreç & Strateji", bio: "[BİYOGRAFİ — DOLDURULACAK]" },
-        { name: "Sevilay", role: "Kurucu Ortak · Akademik Danışmanlık", bio: "[BİYOGRAFİ — DOLDURULACAK]" },
+        {
+          name: "Emirhan",
+          role: "Kurucu Ortak · Süreç & Strateji",
+          bio: "Emirhan, İtalya'da hukuk okuyan ve aynı zamanda beş yıllık danışmanlık deneyimini EduVinci'nin temeline taşıyan bir kurucu ortak. İtalyan üniversite sistemini yıllar içinde derinlemesine tanıdı: Universitaly başvurularından non-EU kotalarına, D-tipi öğrenci vizesinden bölgesel burs sistemlerine (EDISU, ESU, ER.GO) kadar her aşamada uzmanlaştı. EduVinci'de süreç tasarımı ve stratejiden sorumlu; öğrencilerin dağınık, belirsiz ve stresli görünen bir yolculuğu adım adım takip edilebilir bir yol haritasına dönüştürmesini sağlıyor. Tıp (IMAT), mühendislik (PoliMi/PoliTo), hukuk, mimarlık ve işletme başvurularında, \"doğru bilgi doğru zamanda\" ilkesiyle çalışıyor. Her belgenin resmi bir kaynağa dayanması, hiçbir öğrencinin eksik bilgiyle yola çıkmaması onun temel kuralı.",
+        },
+        {
+          name: "Sevilay",
+          role: "Kurucu Ortak · Akademik Danışmanlık",
+          bio: "Sevilay, EduVinci'nin akademik danışmanlık tarafını yürütüyor; öğrencilerin doğru bölümü, doğru üniversiteyi ve kendi hedeflerine en uygun akademik yolu bulmasında rehberlik ediyor. Başvuru sürecinin teknik detaylarının ötesinde, her öğrencinin akademik geçmişini, güçlü yönlerini ve gerçek potansiyelini görerek bireysel bir strateji kuruyor. Program seçiminden denklik süreçlerine, motivasyon mektuplarından sınav hazırlık planlamasına kadar öğrencinin yanında; kararların panik ve tahminle değil, sağlam bir akademik değerlendirmeyle alınmasını sağlıyor. EduVinci'nin öğrenci odaklı yaklaşımının kalbinde onun titiz ve kişiye özel danışmanlık anlayışı yer alıyor.",
+        },
       ],
     },
     services: {
@@ -396,8 +404,16 @@ export const translations = {
       ],
       foundersTitle: "Founders",
       founders: [
-        { name: "Emirhan", role: "Co-founder · Process & Strategy", bio: "[BIO — TO FILL]" },
-        { name: "Sevilay", role: "Co-founder · Academic Advisory", bio: "[BIO — TO FILL]" },
+        {
+          name: "Emirhan",
+          role: "Co-founder · Process & Strategy",
+          bio: "Emirhan, İtalya'da hukuk okuyan ve aynı zamanda beş yıllık danışmanlık deneyimini EduVinci'nin temeline taşıyan bir kurucu ortak. İtalyan üniversite sistemini yıllar içinde derinlemesine tanıdı: Universitaly başvurularından non-EU kotalarına, D-tipi öğrenci vizesinden bölgesel burs sistemlerine (EDISU, ESU, ER.GO) kadar her aşamada uzmanlaştı. EduVinci'de süreç tasarımı ve stratejiden sorumlu; öğrencilerin dağınık, belirsiz ve stresli görünen bir yolculuğu adım adım takip edilebilir bir yol haritasına dönüştürmesini sağlıyor. Tıp (IMAT), mühendislik (PoliMi/PoliTo), hukuk, mimarlık ve işletme başvurularında, \"doğru bilgi doğru zamanda\" ilkesiyle çalışıyor. Her belgenin resmi bir kaynağa dayanması, hiçbir öğrencinin eksik bilgiyle yola çıkmaması onun temel kuralı.",
+        },
+        {
+          name: "Sevilay",
+          role: "Co-founder · Academic Advisory",
+          bio: "Sevilay, EduVinci'nin akademik danışmanlık tarafını yürütüyor; öğrencilerin doğru bölümü, doğru üniversiteyi ve kendi hedeflerine en uygun akademik yolu bulmasında rehberlik ediyor. Başvuru sürecinin teknik detaylarının ötesinde, her öğrencinin akademik geçmişini, güçlü yönlerini ve gerçek potansiyelini görerek bireysel bir strateji kuruyor. Program seçiminden denklik süreçlerine, motivasyon mektuplarından sınav hazırlık planlamasına kadar öğrencinin yanında; kararların panik ve tahminle değil, sağlam bir akademik değerlendirmeyle alınmasını sağlıyor. EduVinci'nin öğrenci odaklı yaklaşımının kalbinde onun titiz ve kişiye özel danışmanlık anlayışı yer alıyor.",
+        },
       ],
     },
     services: {

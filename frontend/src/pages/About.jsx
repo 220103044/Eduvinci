@@ -85,13 +85,10 @@ export default function About() {
           <div className="mt-10 grid md:grid-cols-2 gap-10">
             {founders.map((f) => (
               <Reveal key={f.name}>
-                <div className="ev-card p-8">
-                  <div className="aspect-[4/5] w-full bg-[#0F1B2D]/5 mb-6 flex items-center justify-center">
-                    <span className="text-[11px] tracking-[0.18em] uppercase text-[#5A5A5A]">[GÖRSEL — {f.name}]</span>
-                  </div>
-                  <div className="font-serif text-3xl text-[#0F1B2D]">{f.name}</div>
-                  <div className="mt-1 text-[12px] tracking-[0.15em] uppercase text-[#C75B39]">{f.role}</div>
-                  <p className="mt-5 text-[15px] text-[#5A5A5A]">{f.bio}</p>
+                <div className="ev-card p-8 md:p-10">
+                  <div className="font-serif text-3xl md:text-4xl text-[#0F1B2D]">{f.name}</div>
+                  <div className="mt-2 text-[12px] tracking-[0.15em] uppercase text-[#C75B39]">{f.role}</div>
+                  <p className="mt-6 text-[15px] text-[#1A1A1A]/85 leading-[1.85] font-light whitespace-pre-line">{f.bio}</p>
                 </div>
               </Reveal>
             ))}

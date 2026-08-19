@@ -49,18 +49,17 @@ export default function Services() {
 
       <section className="section">
         <div className="container-ev">
-          <div className="grid md:grid-cols-12 gap-px bg-[#0F1B2D]/10">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             {items.map((it, i) => {
               const Icon = ICONS[i % ICONS.length];
-              const span = i % 5 === 0 ? "md:col-span-8" : "md:col-span-4";
               return (
                 <Reveal key={it.title} delay={0.03 * i}>
-                  <div className={`${span} bg-[#F7F5F0] p-10 h-full`}>
+                  <div className="ev-card bg-[#F7F5F0] p-8 md:p-10 h-full">
                     <div className="flex items-start justify-between gap-6">
                       <Icon size={32} strokeWidth={1} className="text-[#C75B39]" />
                       <span className="font-serif text-3xl text-[#0F1B2D]/40">{String(i + 1).padStart(2, "0")}</span>
                     </div>
-                    <h3 className="mt-8 font-serif text-2xl md:text-3xl text-[#0F1B2D] leading-tight">{it.title}</h3>
+                    <h3 className="mt-8 font-serif text-2xl md:text-[26px] text-[#0F1B2D] leading-tight">{it.title}</h3>
                     <p className="mt-3 text-[15px] text-[#5A5A5A] leading-relaxed">{it.body}</p>
                   </div>
                 </Reveal>

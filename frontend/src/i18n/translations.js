@@ -74,10 +74,10 @@ export const translations = {
     stats: {
       overline: "Performans göstergeleri",
       items: [
-        { label: "Yıllık aktif öğrenci dosyası", value: "[İSTATİSTİK — DOLDURULACAK]" },
-        { label: "Eşleştiğimiz program sayısı", value: "[İSTATİSTİK — DOLDURULACAK]" },
-        { label: "Yerleşme yapılan İtalyan şehri", value: "[İSTATİSTİK — DOLDURULACAK]" },
-        { label: "IMAT/TIL/ARCHED odaklı yıl", value: "[İSTATİSTİK — DOLDURULACAK]" },
+        { label: "Yıllık aktif öğrenci dosyası", value: "" },
+        { label: "Eşleştiğimiz program sayısı", value: "" },
+        { label: "Yerleşme yapılan İtalyan şehri", value: "" },
+        { label: "IMAT/TIL/ARCHED odaklı yıl", value: "" },
       ],
     },
     storiesTeaser: {
@@ -106,7 +106,7 @@ export const translations = {
     footer: {
       tagline: "İtalya odaklı, sınav uzmanlığına dayalı eğitim danışmanlığı.",
       addressLabel: "Ofis",
-      address: "[ADRES — DOLDURULACAK]",
+      address: "Cemalpaşa Mahallesi, Gazipaşa Blv. No: 20 İç Kapı No: 11 Seyhan/Adana",
       rights: "© 2025 EDUVINCI. Tüm hakları saklıdır.",
       legal: "Bilgi amaçlıdır; resmi başvurular ilgili kurumların güncel kurallarına tabidir.",
       sections: {
@@ -256,7 +256,7 @@ export const translations = {
       directTitle: "Doğrudan iletişim",
       whatsappCta: "WhatsApp üzerinden yaz",
       cityLabel: "Şehir",
-      city: "[ADRES — DOLDURULACAK]",
+      city: "Cemalpaşa Mahallesi, Gazipaşa Blv. No: 20 İç Kapı No: 11 Seyhan/Adana",
     },
     forms: {
       name: "Ad Soyad",

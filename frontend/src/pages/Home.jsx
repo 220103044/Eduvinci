@@ -10,6 +10,7 @@ import Ribbon from "../components/Ribbon";
 import CountUp from "../components/CountUp";
 import ConsultationForm from "../components/ConsultationForm";
 import { HOME } from "../constants/testIds";
+import { testimonials } from "../data/testimonials";
 
 const SERVICE_ICONS = [Compass, GraduationCap, ClipboardCheck, FileSearch, Plane, BookOpen, HomeIcon];
 
@@ -20,7 +21,7 @@ export default function Home() {
   const imgY = useTransform(scrollYProgress, [0, 1], [0, 80]);
   const services = t("servicesShort.items");
   const whyItems = t("why.items");
-  const storiesPh = t("storiesTeaser.placeholders");
+  const storiesPh = testimonials.slice(0, 3);
   const stats = t("stats.items");
   const pills = t("hero.pills");
   const ribbonWords = ["Italy-only", "IMAT · TIL · ARCHED", "Universitaly", "DSU", "Torino · Milano · Bologna", "Process-driven"];
@@ -181,15 +182,18 @@ export default function Home() {
 
           <div className="mt-14 grid md:grid-cols-3 gap-5">
             {storiesPh.map((p, i) => (
-              <Reveal key={i} delay={0.05 * i}>
-                <div className="ev-card p-8 h-full">
+              <Reveal key={p.id} delay={0.05 * i}>
+                <article
+                  className="ev-card p-8 h-full flex flex-col"
+                  data-testid={`home-story-${p.id}`}
+                >
                   <div className="overline">{p.university}</div>
-                  <p className="mt-5 font-serif text-[24px] leading-snug text-[#0F1B2D]">&ldquo;{p.quote}&rdquo;</p>
-                  <div className="mt-8 ev-divider pt-4 text-[13px] text-[#5A5A5A] flex items-center justify-between">
-                    <span>{p.program}</span>
-                    <span className="text-[#C75B39] text-[11px] tracking-[0.18em] uppercase">Placeholder</span>
+                  <p className="mt-5 font-serif text-[22px] leading-snug text-[#0F1B2D] flex-1">&ldquo;{p.quote}&rdquo;</p>
+                  <div className="mt-8 ev-divider pt-4 text-[13px] text-[#0F1B2D] flex items-center justify-between">
+                    <span className="font-medium">{p.name}</span>
+                    <span className="text-[10px] tracking-[0.18em] uppercase text-[#C75B39]">Öğrenci</span>
                   </div>
-                </div>
+                </article>
               </Reveal>
             ))}
           </div>

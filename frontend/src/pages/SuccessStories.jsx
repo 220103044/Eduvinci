@@ -3,8 +3,7 @@ import { Link } from "react-router-dom";
 import { ArrowUpRight, Quote } from "lucide-react";
 import { useLang } from "../i18n/LanguageContext";
 import Reveal from "../components/Reveal";
-
-const PLACEHOLDERS = Array.from({ length: 6 });
+import { testimonials } from "../data/testimonials";
 
 export default function SuccessStories() {
   const { t } = useLang();
@@ -27,19 +26,27 @@ export default function SuccessStories() {
       </section>
 
       <section className="section pt-0">
-        <div className="container-ev grid md:grid-cols-3 gap-5">
-          {PLACEHOLDERS.map((_, i) => (
-            <Reveal key={i} delay={0.04 * i}>
-              <div className="ev-card p-8 h-full">
+        <div className="container-ev grid md:grid-cols-3 gap-5" data-testid="stories-grid">
+          {testimonials.map((s, i) => (
+            <Reveal key={s.id} delay={0.04 * i}>
+              <article
+                className="ev-card p-8 h-full flex flex-col"
+                data-testid={`story-card-${s.id}`}
+              >
                 <Quote size={26} strokeWidth={1} className="text-[#C75B39]" />
-                <p className="mt-6 font-serif text-2xl text-[#0F1B2D] leading-snug">
-                  [ÖĞRENCİ YORUMU — DOLDURULACAK]
+                <p className="mt-6 font-serif text-[22px] text-[#0F1B2D] leading-snug flex-1">
+                  &ldquo;{s.quote}&rdquo;
                 </p>
-                <div className="mt-8 ev-divider pt-4 flex items-center justify-between text-[13px] text-[#5A5A5A]">
-                  <span>[ÖĞRENCİ — DOLDURULACAK]</span>
-                  <span className="text-[11px] tracking-[0.18em] uppercase text-[#C75B39]">[YERLEŞTİĞİ PROGRAM]</span>
+                <div className="mt-8 ev-divider pt-4 flex items-center justify-between gap-3 text-[13px] text-[#0F1B2D]">
+                  <span className="font-medium" data-testid={`story-name-${s.id}`}>{s.name}</span>
+                  <span
+                    className="text-[10px] tracking-[0.18em] uppercase text-[#C75B39] text-right"
+                    data-testid={`story-university-${s.id}`}
+                  >
+                    {s.university}
+                  </span>
                 </div>
-              </div>
+              </article>
             </Reveal>
           ))}
         </div>

@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { createPortal } from "react-dom";
 import { Link, NavLink, useLocation } from "react-router-dom";
 import { Menu, X, ArrowUpRight } from "lucide-react";
 import { useLang } from "../i18n/LanguageContext";
@@ -96,8 +97,8 @@ export default function Header() {
         </div>
       </div>
 
-      {open && (
-        <div className="fixed inset-0 z-50 bg-[#F7F5F0]">
+      {open && typeof document !== "undefined" && createPortal(
+        <div className="fixed inset-0 z-[100] bg-[#F7F5F0]">
           <div className="container-ev flex items-center justify-between py-4 border-b border-[#0F1B2D]/10">
             <span className="font-serif text-2xl">EDUVINCI</span>
             <button
@@ -142,7 +143,8 @@ export default function Header() {
               </Link>
             </div>
           </div>
-        </div>
+        </div>,
+        document.body
       )}
     </header>
   );

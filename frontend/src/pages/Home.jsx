@@ -147,9 +147,11 @@ export default function Home() {
               <Reveal key={i} delay={0.05 * i}>
                 <div className="border-t border-[#F7F5F0]/20 pt-6">
                   <div className="font-serif text-5xl md:text-6xl text-[#F7F5F0] flex items-baseline gap-1">
-                    {/* numeric placeholder count-up */}
-                    <CountUp to={[120, 240, 8, 6][i]} duration={1.8} />
-                    <span className="text-[#C75B39] text-3xl">+</span>
+                    {/* numeric count-up */}
+                    <CountUp to={[50, 150, 10, 5][i]} duration={1.8} />
+                    {[true, false, true, false][i] && (
+                      <span className="text-[#C75B39] text-3xl">+</span>
+                    )}
                   </div>
                   <div className="mt-3 text-[13px] tracking-[0.05em] text-[#F7F5F0]/70 max-w-[18rem]">{s.label}</div>
                   <div className="mt-1 text-[10px] tracking-[0.2em] uppercase text-[#C75B39]/80">{s.value}</div>

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { toast } from "sonner";
 import { ArrowUpRight } from "lucide-react";
 import { useLang } from "../i18n/LanguageContext";
-import { submitContact } from "../lib/api";
+import { sendContactToWhatsApp } from "../lib/whatsapp";
 import { FORM } from "../constants/testIds";
 
 export default function ContactForm() {
@@ -15,7 +15,7 @@ export default function ContactForm() {
     e.preventDefault();
     setBusy(true);
     try {
-      await submitContact(data);
+      sendContactToWhatsApp(data);
       toast.success(t("common.sent"));
       setData({ name: "", email: "", phone: "", target_program: "", message: "" });
     } catch {

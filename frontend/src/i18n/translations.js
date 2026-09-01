@@ -139,7 +139,7 @@ export const translations = {
         {
           name: "Sevilay",
           role: "Kurucu Ortak · Akademik Danışmanlık",
-          bio: "EduVinci, Sevilay’ın vizyonu, girişimcilik ruhu ve eğitim dünyasındaki derin tecrübesi üzerine kuruldu. Danışmanlık sürecinin merkezine öğrenciyi alan Sevilay; ilk temastan itibaren öğrencinin akademik geçmişini, ilgi alanlarını, potansiyelini ve kişisel hedeflerini detaylıca analiz eder. Öğrenciyle birebir çalışarak ona en uygun bölüm ve üniversite hedeflerini belirler; girilecek tüm sınavlar için akademisyen destekli, kişiye özel çalışma ve hazırlık planlarını çıkarır.
+          bio: "EduVinci, Sevilay’ın vizyonu, girişimcilik ruhu ve eğitim dünyasındaki derin tecrübesi üzerine kuruldu. Danışmanlık sürecinin merkezine öğrenciyi alan Sevilay; ilk temastan itibaren öğrencinin akademik geçmişini, ilgi alanlarını, potansiyelini ve kişisel hedeflerini detaylıca analiz eder. Öğrenciyle birebir çalışarak ona en uygun bölüm ve üniversite hedeflerini belirler; girilecek tüm sınavlar için akademisyen destekli, kişiye özel çalışma ve hazırlık planlarını çıkarır.",
 
 Yıllara dayanan eğitim koçluğu tecrübesiyle öğrencilerin başvuru, denklik, motivasyon mektubu ve akademik hazırlık adımlarını panikle değil, doğru stratejiyle yönetmelerini sağlar. Stresli ve karmaşık görünen bu yolculuğu, öğrenciler için adım adım takip edilebilir, net ve özgüven dolu bir sürece dönüştürür. Ailelerle olan resmi süreç, vize, burs ve prosedür yönetimini ise hem bir uzman titizliğiyle hem de bir ebeveyn empati ve rehberliğiyle yürüterek EduVinci’nin kişiye özel danışmanlık anlayışını şekillendirir",
         },

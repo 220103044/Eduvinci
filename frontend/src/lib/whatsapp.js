@@ -2,7 +2,7 @@
 // Backend/veritabanı gerektirmez. Form "Gönder"e basıldığında
 // dolu bilgilerle WhatsApp sohbeti açılır.
 
-export const WHATSAPP_NUMBER = "393514293029"; // +39 351 429 3029
+export const WHATSAPP_NUMBER = "905325800656"; // +39 351 429 3029
 
 function buildMessage(title, fields) {
   const lines = [title, ""];
